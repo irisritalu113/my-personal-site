@@ -185,8 +185,15 @@ hr.bar {
 }
 
 
+@media screen and (max-width: 1023px) {
+  .container {
+    width: auto;
+  }
+  /*
+    手機版的 css 都寫在這邊
+  */   
 
-
+}
 
 
 
