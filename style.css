@@ -191,6 +191,7 @@ hr.bar {
     display: none;
   }
 }
+
 @media screen and (max-width: 1023px) {
   .container {
     width: auto;
@@ -217,7 +218,6 @@ hr.bar {
   .menu-button-checkbox:checked ~ .menu {
     display: block;
   }
-
 
   .menu {
     display: none;
